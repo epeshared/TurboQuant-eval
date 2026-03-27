@@ -9,7 +9,7 @@ import yaml
 from turboquant_eval.backends.polar_official import PolarOfficialBackend
 from turboquant_eval.backends.qjl_official import QJLOfficialBackend
 from turboquant_eval.backends.turboquant_ref import TurboQuantRefBackend
-from turboquant_eval.tasks.kv_fidelity import save_result
+from turboquant_eval.results import save_result
 
 
 BACKENDS = {

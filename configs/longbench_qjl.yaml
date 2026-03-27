@@ -1,0 +1,20 @@
+backend: qjl_official
+task: longbench
+
+output_dir: results
+repo_dir: third_party/QJL
+config_dir: third_party/QJL/config
+
+model_name: lmsys/longchat-7b-v1.5-32k
+dtype: float16
+key_quantization_bits: 256
+key_quantization_bits_initial_layers: 512
+initial_layers_count: 15
+outlier_count_general: 8
+outlier_count_initial_layers: 8
+value_quantization_bits: 2
+group_size: 32
+buffer_size: 128
+seed: 42
+dataset_name: narrativeqa
+n_data: 150
