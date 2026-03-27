@@ -1,0 +1,12 @@
+backend: polar_official
+task: longbench
+
+output_dir: results
+repo_dir: third_party/PolarQuant
+cwd: third_party/PolarQuant
+
+# The official PolarQuant test4long.py uses hardcoded model/data/output paths.
+# For real runs, it is recommended to override `command` with your own patched launcher.
+command:
+  - python
+  - test4long.py

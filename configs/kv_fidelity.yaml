@@ -2,6 +2,7 @@ backend: turboquant_ref
 task: kv_fidelity
 
 output_dir: results
+repo_dir: third_party/turboquant-pytorch
 
 device: cpu
 seed: 42
