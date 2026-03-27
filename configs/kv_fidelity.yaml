@@ -1,0 +1,14 @@
+backend: turboquant_ref
+task: kv_fidelity
+
+output_dir: results
+
+device: cpu
+seed: 42
+dtype: float32
+
+dim: 128
+num_queries: 16
+num_keys: 64
+bits: 3
+qjl_dim: 128
