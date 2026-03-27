@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Outputs
+results/
+logs/
+
+# Local external repos
+third_party/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
