@@ -12,7 +12,7 @@ results/
 logs/
 
 # Local external repos
-third_party/
+# third_party/
 
 # Editors / OS
 .DS_Store
