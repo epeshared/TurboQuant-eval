@@ -4,9 +4,9 @@ Date: 2026-04-08
 
 Repository
 - Path: /nvme5/xtang/vdb-workspace/vdb-sandbox
-- Git repo: intel-sandbox/vdb-sandbox
+- Git repo: [intel-sandbox/vdb-sandbox](https://github.com/intel-sandbox/vdb-sandbox)
 - Branch at capture time: main
-- Preserved commit: abe189b
+- Preserved commit: [abe189b](https://github.com/intel-sandbox/vdb-sandbox/commit/abe189bf90bcf3fb450921bb393ad97136ba6fb2)
 - Tracked modified file in this repo: ann-bench/turbo-quant/src/bench_turboquant_ann.py
 
 Why This File Matters

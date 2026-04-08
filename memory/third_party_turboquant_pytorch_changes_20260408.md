@@ -4,11 +4,11 @@ Date: 2026-04-08
 
 Repository
 - Path: /nvme5/xtang/vdb-workspace/vdb-sandbox/TurboQuant-eval/third_party/turboquant-pytorch
-- Git repo identity used for reference: tonbistudio/turboquant-pytorch
+- Original upstream repo at capture time: [tonbistudio/turboquant-pytorch](https://github.com/tonbistudio/turboquant-pytorch)
 - Local branch at capture time: master
-- HEAD at capture time: 2fdeff1
-- Preserved commit: 3f90e1c
-- Current push remote for preserved commit: epeshared/turboquant-pytorch
+- Pre-rebase HEAD at capture time: [2fdeff1](https://github.com/tonbistudio/turboquant-pytorch/commit/2fdeff133804d555114d418934284fddf8a3090c)
+- Preserved commit: [3f90e1c](https://github.com/epeshared/turboquant-pytorch/commit/3f90e1c33a23619d4eadf306f042ff54da7324c6)
+- Current remote holding preserved commit: [epeshared/turboquant-pytorch](https://github.com/epeshared/turboquant-pytorch)
 - Modified files in this independent repo:
   - turboquant.py
   - lloyd_max.py
